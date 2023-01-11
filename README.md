@@ -5,3 +5,4 @@
 - 📐 Interested in statistics and applied math
 - 📊 Hands on experience in MS power BI, python and MySQL
 - 📈 Knowledge in data handling and visualization 
+- ✉️️ Contact: sudharsanss123@gmail.com
